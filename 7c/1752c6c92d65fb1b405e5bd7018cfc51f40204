@@ -1,0 +1,14 @@
+test/proposal.test.js
+  h_05f32768e190e9 538-542
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "7c1752c6c92d65fb1b405e5bd7018cfc51f40204",
+  "prompts": {},
+  "humans": {
+    "h_05f32768e190e9": {
+      "author": "huaiju <huaiju1210085279@gmail.com>"
+    }
+  }
+}
