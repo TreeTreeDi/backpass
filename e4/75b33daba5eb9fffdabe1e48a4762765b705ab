@@ -1,0 +1,19 @@
+src/commands/apply.js
+  s_3f6ef0287d6763::t_b85d7ce67de16f 112
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "e475b33daba5eb9fffdabe1e48a4762765b705ab",
+  "prompts": {},
+  "sessions": {
+    "s_3f6ef0287d6763": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-cb5570d2-214b-4835-86df-df38854898f6",
+        "model": "unknown"
+      },
+      "human_author": "huaiju <huaiju1210085279@gmail.com>"
+    }
+  }
+}
