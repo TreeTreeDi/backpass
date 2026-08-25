@@ -1,0 +1,37 @@
+test/proposal.test.js
+  s_e24db2c01fdc42::t_944160df79f3e7 472
+  s_e24db2c01fdc42::t_f5fa6b3cd5244d 529,533-557
+  s_e24db2c01fdc42::t_a2c64bbe36721f 429
+  s_e24db2c01fdc42::t_0d6cc7ca8d0ee6 504
+  s_e24db2c01fdc42::t_960f27609a96d6 558-559
+src/tokens.js
+  s_e24db2c01fdc42::t_bc8d3f0666dc90 43-49
+src/commands/apply.js
+  s_e24db2c01fdc42::t_43e3e077affc31 100
+src/proposal.js
+  s_e24db2c01fdc42::t_0d0803a8f29eb8 2
+  s_e24db2c01fdc42::t_e5cea1a7a5a7e3 358-359,364
+src/apply/writer.js
+  s_e24db2c01fdc42::t_6d8edf08aae114 126
+  s_e24db2c01fdc42::t_e47dd4eb855908 63
+  s_e24db2c01fdc42::t_e7b6919461838d 4-5,14,17-24,32
+test/budget.test.js
+  s_e24db2c01fdc42::t_4803dd90988876 32-35
+  s_e24db2c01fdc42::t_a6142705e21cb5 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "f99221f1dbd3e86665dd47b9e9ba0398e86562b1",
+  "prompts": {},
+  "sessions": {
+    "s_e24db2c01fdc42": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-1e10e891-dfe6-4da3-9359-1ff812c5d016",
+        "model": "unknown"
+      },
+      "human_author": "huaiju <huaiju1210085279@gmail.com>"
+    }
+  }
+}
