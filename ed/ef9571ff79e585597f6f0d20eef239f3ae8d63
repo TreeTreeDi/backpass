@@ -1,0 +1,19 @@
+src/commands/status.js
+  s_91a65c52f0a370::t_911cb9e5449e5b 115-116
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "edef9571ff79e585597f6f0d20eef239f3ae8d63",
+  "prompts": {},
+  "sessions": {
+    "s_91a65c52f0a370": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-01122379-5692-4036-bafd-f5e34e382907",
+        "model": "unknown"
+      },
+      "human_author": "huaiju <huaiju1210085279@gmail.com>"
+    }
+  }
+}
