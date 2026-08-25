@@ -1,0 +1,27 @@
+src/commands/status.js
+  s_91a65c52f0a370::t_911cb9e5449e5b 115-116
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "03669abcb9ba27d411e3d748530e4116af2bd5ea",
+  "prompts": {},
+  "sessions": {
+    "s_3f6ef0287d6763": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-cb5570d2-214b-4835-86df-df38854898f6",
+        "model": "unknown"
+      },
+      "human_author": "huaiju <huaiju1210085279@gmail.com>"
+    },
+    "s_91a65c52f0a370": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-01122379-5692-4036-bafd-f5e34e382907",
+        "model": "unknown"
+      },
+      "human_author": "huaiju <huaiju1210085279@gmail.com>"
+    }
+  }
+}

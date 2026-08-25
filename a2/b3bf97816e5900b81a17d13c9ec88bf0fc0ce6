@@ -1,0 +1,16 @@
+src/commands/apply.js
+  h_05f32768e190e9 16,18,46,75-80
+test/proposal.test.js
+  h_05f32768e190e9 18,559-602
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "a2b3bf97816e5900b81a17d13c9ec88bf0fc0ce6",
+  "prompts": {},
+  "humans": {
+    "h_05f32768e190e9": {
+      "author": "huaiju <huaiju1210085279@gmail.com>"
+    }
+  }
+}
