@@ -1,0 +1,24 @@
+src/state.js
+  s_a1708a097e5356::t_c8cfdfbcb2538b 21
+src/commands/apply.js
+  s_a1708a097e5356::t_828ecdb2c12753 15-18
+README.md
+  s_a1708a097e5356::t_d99cc7e1b05b81 413
+  s_a1708a097e5356::t_b55e723752401f 271-275
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "5d5359e83b878acd3369aedad0633769170a454e",
+  "prompts": {},
+  "sessions": {
+    "s_a1708a097e5356": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-296425c5-96d1-4016-bdd6-d0ee9c24ee17",
+        "model": "unknown"
+      },
+      "human_author": "huaiju <huaiju1210085279@gmail.com>"
+    }
+  }
+}
